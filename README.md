@@ -10,6 +10,6 @@ This project is designed to optimize supply chain processes using AI-driven dema
 ## Installation:
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/supply-chain-optimization-platform.git
-   cd supply-chain-optimization-platform
+   [git clone https://github.com/yourusername/supply-chain-optimization-platform.git
+   cd supply-chain-optimization-platform](https://github.com/AkramMoustafa/AI-Power-Supply-Chain.git)
 
